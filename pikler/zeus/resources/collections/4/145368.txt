@@ -1,0 +1,1 @@
+Piping and instrumentation diagram     a piping and instrument diagram ( p & id ) is a simplified illustration or diagram of a process . it shows the required functional equipment and instrumentation to make the process work . typically , this document is the basis of design for plant engineering .

@@ -1,0 +1,1 @@
+One-line diagram     the one-line diagram ( or single-line diagram ) is a diagram that shows a three-phase power system in a simple way . it is used in many power-related applications . each electrical element is represented by a unique symbol . although it describes three-phase electricity , only one conductor is shown in the diagram .

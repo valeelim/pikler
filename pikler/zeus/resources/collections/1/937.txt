@@ -1,0 +1,1 @@
+Width     width is the distance between the farthest left part of an object to the farthest right part . for example , the distance between the left side and right side of a chair is the width of it . related pages . - height - depth

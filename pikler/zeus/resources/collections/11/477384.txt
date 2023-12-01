@@ -1,0 +1,1 @@
+Arcsecond     an arcsecond ( second of arc ) is a unit of angle used in astronomy . 1 arcsecond is 1/60th of an arcminute ( minute of arc ) , which in turn is 1/60th of a degree . therefore , an arcsecond is equal to 1/3600th of a degree , meaning there are 1296 thousand arcseconds in a full circle .

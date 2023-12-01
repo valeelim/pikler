@@ -1,0 +1,1 @@
+Contour line     contour lines or isolines are used when plotting a function . all the points where the function has the same value are connected . two well-known examples , where such lines are commonly are height lines on topographical maps , and showing areas with the same pressure or temperature on weather charts . contour lines are an application of level sets .

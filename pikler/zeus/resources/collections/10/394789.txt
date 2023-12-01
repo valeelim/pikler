@@ -1,0 +1,1 @@
+Equalization (audio)    equalization ( audio ) in sound recording , equalization is the process commonly used to change the frequency response of an audio system using linear filters . an equalizer is the device which is used to control the frequencies .

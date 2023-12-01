@@ -1,0 +1,1 @@
+Localhost     localhost means `` this computer '' in computer networking . on most computers `` localhost '' resolves to the ip address 127.0.0.1. the localhost is useful for programmers to test software independent of a network connection . using the localhost bypasses the network card in a computer .

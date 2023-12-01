@@ -1,0 +1,1 @@
+10001 (number)    10001 ( number ) 10001 is a natural number that comes before 10002 and after 10000 . 10001 is a palindromic composite number . 10001 is equaled to 73×137 . when you multiply any four digit integer to 10001 , it will always be the form `` abcd-abcd '' . so any number of the form abcd-abcd will always be divisible by 73 and 137 .

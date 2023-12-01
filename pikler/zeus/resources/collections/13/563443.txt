@@ -1,0 +1,1 @@
+Metric space     metric space is a concept from mathematics : given a set of elments , there is a function which takes two arguments , which are elements of the set and returns a real number , which is usually called `` distance '' `` d '' between those elements . the function needs to be symmetric : d ( x , y ) = d ( y , x ) .

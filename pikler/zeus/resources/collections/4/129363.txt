@@ -1,0 +1,1 @@
+Predictive Failure Analysis     predicive failure analysis is a technology developed by ibm to monitor the likelihood of a hard disk failure . today , it is part of s.m.a.r.t .

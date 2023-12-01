@@ -1,0 +1,1 @@
+Memory address     in computer science , a memory address is an identifier for the place in the computer memory where a computer program or a hardware device can store data and later retrieve it .

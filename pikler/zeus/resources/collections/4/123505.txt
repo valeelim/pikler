@@ -1,0 +1,1 @@
+Colloquy (IRC client)    colloquy ( irc client ) colloquy is an irc client that first came out in 2005. the newest stable , or good version of icechat is 2.1 that was made in 2007. colloquy is free which means it does not cost any money to use . the programming language colloquy is made in is objective-c. it is licensed as gpl . related pages . - list of irc clients

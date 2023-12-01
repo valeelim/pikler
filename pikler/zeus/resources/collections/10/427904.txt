@@ -1,0 +1,1 @@
+Supervisory Control and Data Acquisition     the supervisory control and data acquisition ( scada ) is a control system for various industrial processes . it is controlled by a computer to monitor and control all of the processes that exist in an industry . it is a large-scale controlling method which can include several sites over long distance .

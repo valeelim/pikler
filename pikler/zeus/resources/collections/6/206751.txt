@@ -1,0 +1,1 @@
+Polynomial root     the root of a polynomial `` f '' is a value for `` x '' where the polynomial value `` f ( x ) '' is zero . for example , if the polynomial formula_1 then formula_2 , so 2 is a root of this polynomial . in fact , it can be seen that also -7 is a root of this polynomial .

@@ -1,0 +1,1 @@
+Dpkg     dpkg is the name of a computer package management system . it is the primary package manager of the debian gnu/linux operating system . it was written in the c programming language , and started in 1993 .

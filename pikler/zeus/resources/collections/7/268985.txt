@@ -1,0 +1,1 @@
+Reactivity     reactivity has several meanings : - reactivity ( chemistry ) , how quickly a chemical reaction happens in a given substance - reactive programming , a property of an execution model - reactivity ( psychology ) , when a person changes their behaviour after becoming aware that they are being observed - nuclear chain reaction , a process in nuclear physics

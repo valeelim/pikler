@@ -1,0 +1,1 @@
+Hipparcos     hipparcos is a satellite involved in the hipparcos mission conducted by the european space agency ( esa ) .

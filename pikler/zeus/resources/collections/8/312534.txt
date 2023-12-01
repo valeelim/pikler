@@ -1,0 +1,1 @@
+Chatterbot     a chatterbot is a computer program that responds to input in a natural language . an example is eliza . eliza was one of the first chatterbots . every year , there is a contest for chatterbots called the loebner prize .

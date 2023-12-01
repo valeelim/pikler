@@ -1,0 +1,1 @@
+Real analysis     real analysis is an area of mathematics that deals with sets and sequences of real numbers , as well as functions of one or more real variables . as one of the main branches of analysis , it can be seen as a subset of complex analysis . many results in real analysis are special cases of results in complex analysis .

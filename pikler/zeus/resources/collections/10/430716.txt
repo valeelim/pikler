@@ -1,0 +1,1 @@
+Low voltage ride through     low voltage ride through ( lvrt ) is the capability of an electrical device to function normally during periods of low voltage . many electrical devices in general must have a minimum amount of voltage for them to be able to work . if the voltage is too low the equipment will not work correctly or the efficiency will be reduced .

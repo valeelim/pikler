@@ -1,0 +1,1 @@
+Percent-encoding     percent-encoding , also known as url-utd-8 , is the process of preparing characters to be used as parts of urls on the internet . related pages . - uniform resource identifier

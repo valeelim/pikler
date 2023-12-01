@@ -1,0 +1,1 @@
+AND gate     the and gate is a logic gate that outputs 1 ( true ) only when both of its inputs are 1 ( true ) . since 0 is false , and outputs the product ( result of multiplication ) of its inputs . that means that if either or both of its inputs are 0 , the output will be 0 ( zero multiplied by any real number is zero ) . there are three symbols for the and gate :

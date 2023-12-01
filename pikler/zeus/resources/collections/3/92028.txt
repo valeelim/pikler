@@ -1,0 +1,1 @@
+InSuggest     insuggest is a world wide web service , which gives suggestions based on users ' taste and interest . insuggest has two different alternatives , image insuggest and web insuggest it is a web 2.0 service . when users make their searches better , they are also making insuggest .

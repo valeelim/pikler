@@ -1,0 +1,1 @@
+Hypertext     a hypertext is a text that is organised like a network . parts of the text reference other text passages or texts which can directly be accessed . the parts that provide the reference are known as `` hyperlinks '' . an example of a hypertext is the html standard used in the world wide web .

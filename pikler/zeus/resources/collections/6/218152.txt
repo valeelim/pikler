@@ -1,0 +1,1 @@
+Default gateway     a default gateway is the ip address used to get out of your network .

@@ -1,0 +1,1 @@
+Advanced Packaging Tool     the advanced packaging tool , or apt , is a user interface that works with core libraries to handle the sometimes difficult job of installing software on linux . related pages . - aptoncd

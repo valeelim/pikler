@@ -1,0 +1,1 @@
+Sievert     the sievert , abbreviated `` sv '' is the si unit to measure the equivalent dose of ionizing radiation . it looks at how an organism reacts to a given dose . this is different from measuring the total absorbed dose , which is done in gray . it is named after rolf sievert , a swedish physicist and doctor , who did research on how radiation affects organisms .

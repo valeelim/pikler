@@ -1,0 +1,1 @@
+Torus     a torus is a shape from geometry that is obtained by rotating a circle in 3d space . to obtain a torus , the point around which the rotation occurs must be in a plane with the circle . if the point of rotation lies outside the circle , the shape of the torus will have a hole , and the torus will be called ring torus .

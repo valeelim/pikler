@@ -1,0 +1,42 @@
+# Development folders
+/static/
+/static-*/
+
+
+.ssm_cache.json
+
+# Byte-compiled / optimized / DLL files
+~$*
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+wheels/
+
+
+# Django stuff:
+*.log
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+
+# mypy
+.mypy_cache/
+mypy_reports/
+.idea/
+
+# vscode settings
+.vscode/
+
+.DS_Store
+
+/tmp

@@ -1,0 +1,1 @@
+Isometry     isometry is a concept of geometry . isometry means that one shape can be transformed into another , but metrics such as the arrangement of the points with relation to each other stays the same . examples for isometric transformations are moving a shape , or rotating it .

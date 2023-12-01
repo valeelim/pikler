@@ -1,0 +1,1 @@
+GNewSense     gnewsense is a free software-only debian based distro . the project aims to contain only free software in their distribution . related pages . - ubuntu

@@ -1,0 +1,1 @@
+Amazon Standard Identification Number     the amazon standard identification number ( asin ) is number used by amazon.com to identify books . when there is a ten-digit isbn code , the asin is usually the same number . the asin can be useful to use when a book is old and has no isbn code .

@@ -1,0 +1,1 @@
+Yobibyte     a yobibyte ( yib ) is a large unit of measurement for computers of the future . yobibytes hold 1024 zebibytes ( zib ) .

@@ -1,0 +1,1 @@
+Provinces of Peru     the table below shows all provinces of peru . it lists their capitals and the regions that they are in . the ubigeo code identifies each province . capitals in bold are also a regional capital . provinces that have the region 's capital all have an ubigeo code ending in codice_1 .

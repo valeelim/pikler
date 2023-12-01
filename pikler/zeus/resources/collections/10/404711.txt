@@ -1,0 +1,1 @@
+Subwoofer     subwoofer is a type of loudspeaker that is designed to produce low frequencies , example 20 - 200 hz . usually subwoofers are quite big and heavy . humans can not typically hear frequencies below 20 hz . in some cases , with enough sound pressure , the listener will not hear the sound but will be able to feel it .

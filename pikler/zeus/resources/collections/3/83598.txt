@@ -1,0 +1,1 @@
+Orthographic projection     orthographic projection is a way of showing a 3d object in 2d . it is a form of parallel projection , where the view direction is orthogonal to the projection plane . other websites . - educational website describing the principles of first and third angle projection – university of limerick

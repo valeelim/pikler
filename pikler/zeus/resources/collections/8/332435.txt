@@ -1,0 +1,1 @@
+Younger Futhark     younger futhark is a runic script that developed from elder futhark , and was used mainly in scandinavia . younger futhark was used form around the year 800. it uses 16 symbols instead of 24 , for elder futhark . at the same time , the language developed from proto-norse to old norse , which used more that 16 sounds .

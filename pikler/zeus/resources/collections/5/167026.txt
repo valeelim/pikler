@@ -1,0 +1,1 @@
+Conspire (software)    conspire ( software ) conspire is an irc client written in c first made in 1999. the newest , or latest version of conspire is 2.2.14 and was made in 2005. the client is free to use . conspire is licensed as lgpl . it is based on xchat . related pages . - list of irc clients

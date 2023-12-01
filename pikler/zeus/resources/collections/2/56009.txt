@@ -1,0 +1,1 @@
+General-purpose programming language     a general-purpose programming language ( gpl ) is a way to tell a computer what to do that makes a user 's job easy and quick without much confusion . gpls can be used for many different things . an example can be basic , invented by john kemeny and thomas kurtz in 1963 .

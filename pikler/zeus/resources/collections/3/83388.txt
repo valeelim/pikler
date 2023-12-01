@@ -1,0 +1,1 @@
+HTTrack     httrack is a free and open source website copier and offline browser by xavier roche , licensed under the gnu general public license . it allows you to download world wide web sites from the internet to a computer . other websites . - official site - demonstration of winhttrack in use - spiderzilla add-on for mozilla firefox

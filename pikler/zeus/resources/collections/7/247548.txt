@@ -1,0 +1,1 @@
+Internet Message Access Protocol     internet message access protocol ( or imap ) is a communication protocol , a set of rules that e-mail client programs , like the one in your computer , use to download email from a mail server . an older protocol which does the same thing is called post office protocol but imap has additional features .

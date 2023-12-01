@@ -1,0 +1,1 @@
+Atom (feed)    atom ( feed ) the name atom applies to a pair of related standards . the atom syndication format is an xml language used for web feeds . the atom publishing protocol ( atompub or app ) is a simple http-based system of rules for creating and updating web resources .

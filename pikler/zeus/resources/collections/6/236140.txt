@@ -1,0 +1,1 @@
+NOR gate     the nor gate is a logic gate that outputs 1 ( true ) when both of its inputs are 0 ( false ) . that means that if at least one of its inputs is 1 ( true ) , the output will be 0. the best way to remember a nor operation is `` neither one or the other , nor both . '' there are three symbols for the nor gate :

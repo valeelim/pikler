@@ -1,0 +1,1 @@
+World Geodetic System     the world geodetic system ( wgs ) is a standard for use in cartography , geodesy , and navigation including gps . it comprises a standard coordinate system for the earth , a standard for raw altitude data , and a geoid that defines the `` nominal sea level '' . the latest revision is wgs 84 .

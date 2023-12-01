@@ -1,0 +1,1 @@
+Breadboard     breadboard is an electronic tool which can be used to test electrical circuits . in that case soldering is not needed .

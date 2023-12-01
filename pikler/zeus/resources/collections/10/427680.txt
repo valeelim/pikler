@@ -1,0 +1,1 @@
+Voltage spike     a voltage spike is a sudden increase in voltage value over a short time in power systems . it can be caused by several factors , but mostly it is due to external or internal disturbance . a voltage spike might cause an increase in current , but the increase in voltage might have been caused by the current increase as well .

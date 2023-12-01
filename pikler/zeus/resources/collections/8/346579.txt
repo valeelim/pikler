@@ -1,0 +1,1 @@
+Laplace's equation    laplace 's equation laplace 's equation is a partial differential equation , of the second order . it is named after pierre-simon laplace , an 18th century mathematician who first described it . one of the uses of the equation is to predict the conduction of heat , another to model the conduction of electricity .

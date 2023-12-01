@@ -1,0 +1,1 @@
+Parametric statistics     parametric statistics is a branch of statistics . it assumes that the unknown population that the observations follow a probability distribution . most of the parameters of the distribution are assumed to be known . most methods of statistical analysis are of this type . jacob wolfowitz was the first to use the term :

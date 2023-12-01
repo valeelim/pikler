@@ -1,0 +1,1 @@
+Document Object Model     the document object model ( dom ) is a representation of an html website 's properties . by using dom , an html page can be modified ( elements of it can be removed , changed , or new elements can be added ) .

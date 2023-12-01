@@ -1,0 +1,1 @@
+Jamstik     jamstik is a portable 6-string midi guitar controller with five frets made by zivix , llc . the jamstik is compatible with ipad , iphone and macintosh . it weighs . the jamstik comes with an included instructional app called jamtutor . jamtutor helps teach new guitar players the basics of guitar .

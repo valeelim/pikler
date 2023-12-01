@@ -1,0 +1,1 @@
+Hitting for the cycle     in baseball , a player hits for the cycle when they hit a single , a double , a triple , and a home run in the same game . it does not have to be in that order . collecting the hits in that order is known as a natural cycle .

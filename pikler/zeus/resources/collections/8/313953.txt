@@ -1,0 +1,1 @@
+Bayesian probability     bayesian probability figures out the likelihood that something will happen based on available evidence . this is different from frequency probability which determines the likelihood something will happen based on how often it occurred in the past .

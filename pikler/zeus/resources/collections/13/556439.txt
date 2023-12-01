@@ -1,0 +1,1 @@
+Disk read/write head     when writing data to the disk , the data needs to be written to a certain position on the disk . this is done by a component called disk read/write head .

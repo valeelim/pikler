@@ -1,0 +1,1 @@
+Lambda expression     lambda expression may mean : - anonymous function - lambda calculus : an expression in λ calculus .

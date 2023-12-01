@@ -1,0 +1,1 @@
+Bond albedo     the bond albedo is the fraction of power in the total electromagnetic radiation hitting an astronomical body which is scattered back out into space . it considers all wavelengths at all phase angles . it is necessary for estimating how much energy a planet or other body absorbs .

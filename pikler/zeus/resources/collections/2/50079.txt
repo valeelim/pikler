@@ -1,0 +1,1 @@
+Dictionary attack     a dictionary attack is a method used in cryptography . to find a key ( or username , or password ) , a large number of words are tried . these words usually come from a special collection , called a dictionary . it also focuses on sucking

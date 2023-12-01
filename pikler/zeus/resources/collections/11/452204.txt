@@ -1,0 +1,1 @@
+Microsoft Visual Studio     microsoft visual studio is a set of programs or tools used to help write computer programs . it includes the tools for designing , coding the program , and fixing the bugs . this type of software is called an integrated development environment ( or ide ) . it means it has most of the tools necessary to write new programs .

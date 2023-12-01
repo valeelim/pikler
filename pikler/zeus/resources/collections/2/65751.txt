@@ -1,0 +1,1 @@
+Client     in net jargon ( words people use about the internet ) a client is a computer used by a user to connect to a network and make requests to servers . for example , a web browser is a client software .

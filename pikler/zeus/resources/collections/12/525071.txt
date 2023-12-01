@@ -1,0 +1,1 @@
+Eddy current     an eddy current can be made when you have a solenoid ( coil of wire ) , in which there is a soft iron core . when you connect the solenoid to an ac power source , metal objects held above the cross sectional area of the solenoid are repelled due to lenz 's law .

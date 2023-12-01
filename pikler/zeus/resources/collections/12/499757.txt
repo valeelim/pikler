@@ -1,0 +1,1 @@
+Logic block     a logic block , sometimes called configurable logic block is a component of an fpga . each logic block can be configured to hold a number of logic gates , which are interconnected .

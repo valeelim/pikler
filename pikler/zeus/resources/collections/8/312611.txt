@@ -1,0 +1,1 @@
+Self-similarity     something is self-similar iff it is similar ( or very close ) to a part of itself . for example , the mandelbrot set is self similar as it contains an infinte number of almost-exact copies of itself .

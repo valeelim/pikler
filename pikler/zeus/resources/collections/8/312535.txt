@@ -1,0 +1,1 @@
+Loebner prize     the loebner prize is an award given out every year to a chatterbot . the winner is chosen by a turing test : each judge talks ( text-based ) to a chatterbot and to a human . the judge guesses which is which . the contest started in 1990 by hugh loebner .

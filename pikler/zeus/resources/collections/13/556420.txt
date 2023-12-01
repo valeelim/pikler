@@ -1,0 +1,1 @@
+Geo (microformat)    geo ( microformat ) geo is a microformat for marking up wsg84 geographical coordinates in ( x ) html . geo allows parsing tools to extract a location . the location can then be used in another website or mapping tool . it can also input into a gps .

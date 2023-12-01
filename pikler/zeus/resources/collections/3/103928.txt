@@ -1,0 +1,1 @@
+Yottabyte     a yottabyte ( yb ) is a unit of measurement for computers of the future . one yottabyte holds 1000 zettabytes ( zb ) or a trillion trillion ( 1,000,000,000,000,000,000,000,000 ) bytes . a yottabyte is so large that it would take about a billion supercomputers to store this amount of data .

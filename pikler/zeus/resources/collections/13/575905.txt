@@ -1,0 +1,1 @@
+Magnetic tape data storage     magnetic tape storage is a way of storing digital information on a along strip of magnetic tape . this type of storage , though outdated , is widely used as a backup storage .

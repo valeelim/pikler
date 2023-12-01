@@ -1,0 +1,1 @@
+Inclusive disjunction     inclusive disjunction ( also called or ) is a logic operation . it normally takes two inputs . it is false when both inputs are false . otherwise it is true . this is different from the exclusive disjunction .

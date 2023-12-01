@@ -1,0 +1,1 @@
+Impulse (physics)    impulse ( physics ) in classical mechanics , an impulse is defined as the integral of a force with respect to time : where impulse is also described as the change in momentum . if the force and the mass of the object do not change , impulse can be simply expressed as : where related pages . - specific impulse

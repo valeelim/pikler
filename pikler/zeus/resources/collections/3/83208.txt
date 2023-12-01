@@ -1,0 +1,1 @@
+HotJava     hotjava is a web browser from sun microsystems that can execute java applets . it was the first browser to support java applets , and is not available anymore and is not supported anymore . other websites . - hotjava browser - hotjava @ evolt

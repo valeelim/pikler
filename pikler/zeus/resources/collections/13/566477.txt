@@ -1,0 +1,1 @@
+Time in Armenia     armenia time ( amt ) is the standard time that is used in armenia . it is 4 hours ahead of coordinated universal time ( utc+4 ) . during its dst period , it used armenia summer time ( amst ) which was 5 hours ahead of utc ( utc+5 ) . the time zone was discounted in 2012 .

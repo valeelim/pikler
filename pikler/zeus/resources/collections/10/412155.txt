@@ -1,0 +1,1 @@
+Galvanic isolation     galvanic isolation means separating two electrical structure from each other . one way to do it is to use relay , another way to do it is to use opto-isolator . also transformer makes galvanic isolation .

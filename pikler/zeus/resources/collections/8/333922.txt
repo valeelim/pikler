@@ -1,0 +1,1 @@
+Epigraph (mathematics)    epigraph ( mathematics ) in mathematics , the epigraph of a function is the set of paired values so the output of the function at the first value is less than or equal to the second value . in math terms this means formula_1 if and only if formula_2 .

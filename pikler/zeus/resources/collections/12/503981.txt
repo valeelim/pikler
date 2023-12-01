@@ -1,0 +1,1 @@
+Truncated octahedron     a truncated octahedron is an archimedean solid . it has 14 faces : 8 are hexagons , 6 are squares . it is obtained by cutting the edges of an octahedron . each corner of the octahedron has four connections . cutting the corner will therefore replace it with a square .

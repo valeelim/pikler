@@ -1,0 +1,1 @@
+Barcode reader     a barcode reader or barcode scanner is an electronic device which is able to scan and decode barcodes . these devices use optical technology such as infrared light . some readers use an integrated decoder , others have one unit for reading the barcode , and another one to decode the barcode .

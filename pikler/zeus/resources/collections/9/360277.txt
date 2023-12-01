@@ -1,0 +1,1 @@
+List of largest lakes of Europe     this is a list of lakes of europe with an average area greater than 100 km² . some smaller lakes may be missing from the list . column 1 is the overall ranking . column 2 is the rank in the sub-region using the map to the right .

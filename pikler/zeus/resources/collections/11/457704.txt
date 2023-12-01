@@ -1,0 +1,1 @@
+Scattering     when radiation hits something it may be sent off in many directions . this is scattering and is distinct from absorption , reflection , and refraction . kinds of scattering include : - mie scattering - rayleigh scattering - compton scattering - tyndall effect - thomson scattering

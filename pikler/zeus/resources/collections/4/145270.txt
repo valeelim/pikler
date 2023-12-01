@@ -1,0 +1,1 @@
+X-Forwarded-For     the x-forwarded-for ( xff ) http header is a standard for finding the ip address of a client connecting to a web server through an http proxy or load balancer comes from .

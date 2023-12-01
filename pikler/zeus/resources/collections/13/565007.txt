@@ -1,0 +1,1 @@
+Chromebook     a chromebook is a laptop using the linux-based chrome os as its operating system . it uses the internet . most applications and data are in the `` cloud '' . a chromebook is an example of a thin client . this is a lightweight computer which uses remote access to a server . it depends heavily on another computer ( its server ) to do its computation .

@@ -1,0 +1,1 @@
+New I/O     new i/o ( input/output ) or non-blocking i/o , usually called nio , is a collection of java programming language application programming interfaces that offer features for intensive i/o operations .

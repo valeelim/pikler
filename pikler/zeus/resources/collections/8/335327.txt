@@ -1,0 +1,1 @@
+32-bit     in computer architecture , 32-bit integers , memory addresses , or other data units are those that are at most 32 bits wide . in windows , you are limited to roughly 3 gigabytes of viewable memory on your system using 32-bit architecture .

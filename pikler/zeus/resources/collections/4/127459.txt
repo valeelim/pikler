@@ -1,0 +1,1 @@
+PackageKit     packagekit is a free group of software applications designed to provide a consistent and high-level front end for a number of different package management systems . packagekit was made by richard hughes .

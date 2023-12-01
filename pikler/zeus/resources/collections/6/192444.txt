@@ -1,0 +1,1 @@
+Spheroid     a spheroid is an ellipsoid . it is got by rotating an ellipse about one of its principal axes . this means it is an ellipsoid with two equal semi-diameters . most celestial objects are oblate spheroids . they usually spin , and as they spin , centrifugal force pulls them into that shape . few natural objects are prolate spheroids . related pages . - oblate spheroid

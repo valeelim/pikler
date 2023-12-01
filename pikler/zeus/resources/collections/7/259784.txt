@@ -1,0 +1,1 @@
+Damping     in physics , damping is any effect that tends to reduce the amplitude of vibrations . in mechanics , the internal friction may be one of the causes of such damping effect . for many purposes the damping force f can be modeled as being proportional to the velocity v of the object : where c is the `` damping coefficient '' , given in units of newton-seconds per meter .

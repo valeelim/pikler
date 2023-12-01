@@ -1,0 +1,1 @@
+High-pass filter     a high-pass filter is an electronic filter that passes the frequency component of a signal above a certain value ( cutoff frequency ) . the frequency component below that certain value will be suppressed to almost zero . related pages . - low-pass filter - band-pass filter - band-stop filter

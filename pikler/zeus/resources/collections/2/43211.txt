@@ -1,0 +1,1 @@
+Logical negation     logical negation ( also known as not ) is a logic operation . it takes one input . it flips the value of the input as the output . if the input was true , it returns false . if the input was false , it returns true . the ascii cote is atl+170

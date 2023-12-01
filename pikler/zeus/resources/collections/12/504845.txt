@@ -1,0 +1,1 @@
+Primitive root modulo n     in modular arithmetic , a number g is a primitive root modulo n , if every number m from 1.. ( n-1 ) can be expressed in the form of formula_1 . as an example , 3 is a primitive root modulo 7 : all the elements formula_8 of the group modulo 7 can be expressed that way . the number 2 is no primitive root modulo 7 , because and

@@ -1,0 +1,1 @@
+Divergence     in mathematics , divergence is a differential operator that associates a vector field with a scalar field . in a vector field , each point of the field is associated with a vector , in a scalar field each point of the field is associated with a scalar . divergence is used to formulate maxwell 's equations and the continuity equation .

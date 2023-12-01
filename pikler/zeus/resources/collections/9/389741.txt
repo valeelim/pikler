@@ -1,0 +1,1 @@
+Irssi     irssi is an command-line irc client . it is commonly used on unix machines , but is also available for windows . other websites . - irssi website

@@ -1,0 +1,1 @@
+Getdeb     getdeb is an ubuntu software portal with ready-to-install applications in ubuntu 's default .deb package format . getdeb.net was created by joão pinto to make it easy for ubuntu users to install the latest versions of free/open source applications quickly and easily . related . - deb ( file format ) - superdeb other websites . - getdeb - ubuntu homepage

@@ -1,0 +1,1 @@
+Data matrix     data matrix is an invention of a two-dimensional barcode . the coded information can be text or numbers . it is read by a bar code reader . error correction codes are often used to increase reliability . even if one or more cells are damaged , the message can still be read . a data matrix symbol can store up to 2,335 alphanumeric characters .

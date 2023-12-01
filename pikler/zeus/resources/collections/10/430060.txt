@@ -1,0 +1,1 @@
+Variable-frequency drive     a variable-frequency drive ( vfd ) is a device used to control the speed and torque of an ac motor by changing the motor input frequency and voltage . vfds are used for many things that range from small appliances to large mining motors and compressors .

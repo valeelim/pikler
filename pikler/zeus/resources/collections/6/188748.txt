@@ -1,0 +1,1 @@
+Heart rate     heart rate ( hr ) is how many times a heart beats per minute ( bpm ) . the average bpm for a man or women who does not exercise is 70 bpm . heart rate varies between people because of fitness , age and genetics .

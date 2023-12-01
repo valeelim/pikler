@@ -1,0 +1,1 @@
+StartUp-Manager     startup-manager is a program to configure grub , splash and splashy . it was originally an ubuntu project , but was later adapted to debian . other websites . - package details for ubuntu 8.04

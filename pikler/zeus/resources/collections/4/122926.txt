@@ -1,0 +1,1 @@
+PingOO     pingoo is a communication server based on debian . pingoo was created by the cri ( centre des resources informatiques ) in haute-savoie ( france ) . other websites . - official site

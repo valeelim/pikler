@@ -1,0 +1,1 @@
+Inverse-square law     in physics , an inverse-square law is a physical law that states that the farther away an object is from an effect , or a physical quantity causing an effect , the less change can be observed in the object . the following are examples of when this law applies : - gravitation - electrostatics - light and other electromagnetic radiation - acoustics

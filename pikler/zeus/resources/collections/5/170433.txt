@@ -1,0 +1,1 @@
+FeedDemon     feeddemon is a free proprietary software for windows that reads rss feeds . the inventor of feeddemon is nick bradbury , the inventor of other software . this software is owned by newsgator technologies since may 2005. this software can work with bloglines and newsgator online . other websites . - official website

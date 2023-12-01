@@ -1,0 +1,1 @@
+FreeBASIC     freebasic is a programming language like quickbasic . it is free and open source . it has many advanced things that other basic programming languages do not have . freebasic can make graphical programs or console mode programs . it runs on dos , linux , and microsoft windows . the freebasic compiler can create itself .

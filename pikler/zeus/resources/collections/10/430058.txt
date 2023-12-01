@@ -1,0 +1,1 @@
+Motor soft starter     a motor soft starter is a device used in an electric motor to smooth out the starting of the motor . this is done by lowering the load , torque and current .

@@ -1,0 +1,1 @@
+Hyperplane     a hyperplane is a generalization of a line into more than 3 dimensions .

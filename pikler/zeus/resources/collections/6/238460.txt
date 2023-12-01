@@ -1,0 +1,1 @@
+Crazy Eights     crazy eights is a card game similar to uno . it can be played with 2-4 players and 1 or 2 decks . the object of the game is to get rid of all cards in your hand . whenever an eight is played , it changes the suit .

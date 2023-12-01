@@ -1,0 +1,1 @@
+Trillian     trillian is an instant messaging program made by cerulean studios . it can be used with many different chat services . the newest version works with aim , icq , msn , yahoo messenger , and irc .

@@ -1,0 +1,1 @@
+ActionScript     actionscript is a scripting language similar to javascript . it is used for adobe flash and adobe flex . an example hello world program in actionscript 3.0 : other websites . - actionscript technology center - adobe - flash developer center

@@ -1,0 +1,1 @@
+Magnetostatic loudspeaker     a magnetostatic loudspeaker is a dipole speaker . it is quite similar than electrostatic loudspeaker but it does n't use high voltages , it uses high currents . the impedance of a magnetostatic speaker may be so low that an amplifier has to be ready to feed low impedance . sound quality about current speaker type is respected .

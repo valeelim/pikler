@@ -1,0 +1,1 @@
+Réti opening     the réti opening ( or just `` the réti '' ) is a hypermodern chess opening . it starts with 1.nf3 . it was originally devised for sequences like now 2.g3 is as usual as 2.c4 in this opening . the opening can change into many others as pieces develop . this is called transposition . - eco code is a04–a08 . eco is the `` encyclopaedia of chess openings '' .

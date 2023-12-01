@@ -1,0 +1,1 @@
+Arity     in logic , mathematics , and computer science , the arity of a function is the number of arguments that the function takes .

@@ -1,0 +1,1 @@
+Darwin (operating system)    darwin ( operating system ) darwin is a free , open source , unix operating system made by apple inc. it is named after charles darwin . darwin is used as the base of mac os x , but it can not run mac os x programs by itself .

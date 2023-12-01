@@ -1,0 +1,1 @@
+OpenDocument     opendocument format ( odf ) is a computer file format for word processors , presentation software and other computer programs . for example , openoffice is a program that uses odf to save text , slideshows and spreadsheets .

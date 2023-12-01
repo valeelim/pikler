@@ -1,0 +1,1 @@
+Stack machine     in computer science , a stack machine is a model of computation in which the computer 's memory takes the form of one or more stacks .

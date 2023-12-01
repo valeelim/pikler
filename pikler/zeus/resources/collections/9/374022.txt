@@ -1,0 +1,1 @@
+XLR connector     xlr connector is a type of electronic connector that is mostly used with audio technology . balanced and unbalanced circuits are possible with xlr when using monosignal per one xlr connection . sound quality improves with a balanced circuit because noise signal reduces , especially with microphones where the signal is often weak .

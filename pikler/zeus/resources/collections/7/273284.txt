@@ -1,0 +1,1 @@
+SemEval     semeval ( semantic evaluation ) is a series of workshops that focus on evaluating computer systems that interpret the meaning of human language ( aka computational semantic systems ) .

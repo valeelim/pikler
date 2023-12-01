@@ -1,0 +1,1 @@
+Opto-isolator     opto-isolator is an electronic component that can be used for galvanic isolation . it uses light for separating two circuits from each other .

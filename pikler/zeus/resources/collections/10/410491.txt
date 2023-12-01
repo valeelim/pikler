@@ -1,0 +1,1 @@
+Zener diode     zener diode is like a normal diode , but instead of being destroyed by a big reverse voltage , it lets electricity through . the voltage needed for this is called the breakdown voltage or zener voltage . because it can be built with a known breakdown voltage , it can be used to accurately measure voltage .

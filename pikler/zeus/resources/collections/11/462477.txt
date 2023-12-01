@@ -1,0 +1,1 @@
+Prism (geometry)    prism ( geometry ) a prism is a three-dimensional shape , which consists of two identical polygons , which do not lie in the same axis . for each side of the polygon , there will be a parallelogram .

@@ -1,0 +1,1 @@
+Connector     connector is general name for electric connections . examples : - rca connector - xlr connector - phone connector

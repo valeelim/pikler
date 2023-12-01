@@ -1,0 +1,1 @@
+ZFS     zfs is a file system that has been developed by sun microsystems for solaris . it was developed with very large disks ( and disk collections ) in mind . it has built in support for snapshots and logical volumes.-the file system also supports advanced concepts like raid . in addition to solaris , zfs has been ported to other versions of unix , including linux and freebsd .

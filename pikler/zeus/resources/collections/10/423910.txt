@@ -1,0 +1,1 @@
+Stochastic process     a stochastic process is a mathematical description of random events that occur one after another . it is possible to order these events according to the time at which they occur . this can be used to model such things as stock market and exchange rate changes , or medical information like a patient 's ekg , eeg , blood pressure or temperature .

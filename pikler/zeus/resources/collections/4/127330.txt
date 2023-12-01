@@ -1,0 +1,1 @@
+Autopackage     autopackage is a free computer programme aimed at making it simple to create other programs that can be installed on all linux distributions . right now , the only operating system to include autopackage is super ubuntu related pages . - zero install - runz - super ubuntu

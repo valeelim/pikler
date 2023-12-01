@@ -1,0 +1,1 @@
+Serial Storage Architecture     serial storage architecture is a technology used to attach hard disks to servers . it was developed by ibm in the 1990s . ibm produced a number of drives with this standard , but today , it has been largely replaced by the fibre channel architecture .

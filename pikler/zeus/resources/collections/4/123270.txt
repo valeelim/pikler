@@ -1,0 +1,1 @@
+Bitwise operation     the phrase bitwise operation is used in electronics and is used in computer programming to change numbers using an operation , such as and , or , not , exclusive or ( xor ) , or not and ( nand ) . related pages . - binary - octal numeral system - base 10 - hexadecimal numeral system

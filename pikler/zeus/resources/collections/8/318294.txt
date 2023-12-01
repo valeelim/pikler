@@ -1,0 +1,1 @@
+Data Encryption Standard     the data encryption standard is a 56-bit cipher that was once recommended by the u.s. government . in 1998 , it was defeated by a machine built by the electronic frontier foundation . it has been replaced by the advanced encryption standard in most uses .

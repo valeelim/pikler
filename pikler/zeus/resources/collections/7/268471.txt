@@ -1,0 +1,1 @@
+Van der Waals radius     the van der waals radius is the radius of an atom that is seen as a hard sphere . it is named after someone who realized that atoms were not points , but actual objects . it can be found by the critical point and the physical properties of a gas . it also can be found by a molecular crystal .

@@ -1,0 +1,1 @@
+SuperCollider     supercollider is a programming language designed especially for sound and music . artists and musicians use it to create pieces of music , or interactive sound sculptures , or other computer-based audio things .

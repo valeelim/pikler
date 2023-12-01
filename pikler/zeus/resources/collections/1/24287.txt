@@ -1,0 +1,1 @@
+Pentomino     a pentomino is a 2d shape made out of 5 side-by-side equal-sized squares . they can be found in the books `` chasing vermeer '' and `` the wright 3 '' . it was created by solomon w. golomb . these are the 12 pentominos : other websites . - all about pentominoes

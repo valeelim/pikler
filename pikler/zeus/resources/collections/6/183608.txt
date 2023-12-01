@@ -1,0 +1,1 @@
+Electro-optic modulator     an electro-optic modulator is an optical device . it is made of a material that has a so-called `` electro-optical effect '' . this means that the material changes its optical properties when there is an electric field . one example is then when there is no electricity , light can pass through , and when there is , it can not , and is reflected .

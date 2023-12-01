@@ -1,0 +1,1 @@
+Network Functions Virtualization     network functions virtualization ( nfv ) it aims to reduce costs and complexity in communication networks , while facilitating faster creation of new communication services .

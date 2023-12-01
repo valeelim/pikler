@@ -1,0 +1,1 @@
+OR gate     the or gate is a logic gate that outputs 1 ( true ) when at least one of its inputs is 1 ( true ) . that means that if both of its inputs are 0 , the output will be 0. the best way to remember an or operation is `` one or the other , or both . '' there are three symbols for the or gate :

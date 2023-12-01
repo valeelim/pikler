@@ -1,0 +1,1 @@
+Java Embedding Plugin     java embedding plugin ( jep ) allows java on mac os x with browsers that are not safari . other websites . - http : //javaplugin.sourceforge.net

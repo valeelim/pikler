@@ -1,0 +1,1 @@
+WMA     wma is a file format for storing music . it was made by microsoft . it stands for windows media audio . it is used in windows media player and many portable music players .

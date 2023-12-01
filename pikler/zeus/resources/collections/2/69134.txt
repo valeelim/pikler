@@ -1,0 +1,1 @@
+Nth root     nth root of a number `` r '' is a number which , if multiplied by itself `` n '' times , makes `` r '' . you could also say that it is a number `` k '' for which the following equation is true : we write it like this : formula_3 .

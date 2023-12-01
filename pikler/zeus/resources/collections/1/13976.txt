@@ -1,0 +1,1 @@
+Multithreading     multithreading means that a computer can work on different parts of the same program at the same time . this usually allows the program to run faster . related pages . - multitasking - multiprocessing - multi-core processor

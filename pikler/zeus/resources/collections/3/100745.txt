@@ -1,0 +1,1 @@
+VCard     vcard is a standard document format for electronic business cards . very often , vcards are attached to e-mail messages , but they can also be exchanged in other ways . there are also extensions to it , known as vcalendar or icalendar . hcard is a broader format to do the same thing .

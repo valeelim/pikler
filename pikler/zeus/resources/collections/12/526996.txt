@@ -1,0 +1,1 @@
+Acid2     the acid2 test is a test of web browsers to see if they can show parts of the internet correctly . it uses css and html to put things in the right places . it uses the png format for the images it uses in the test . a company 's web browser that works with the acid2 test is able to show most of the internet correctly and is a modern web browser .

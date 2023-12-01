@@ -1,0 +1,1 @@
+Concatenation     concatenation is a simple concept from computer science . it is a way of making a new word ( or string ) , by putting together two other strings . given the words `` foo '' and `` bar '' , the two new words `` foobar '' and `` barfoo '' can be made that way .

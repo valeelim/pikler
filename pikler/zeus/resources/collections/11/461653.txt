@@ -1,0 +1,1 @@
+Stellar (payment protocol)    stellar ( payment protocol ) stellar is a system for sending money through the internet . it is based on the ripple communication protocol and software . other websites . - stellar foundation

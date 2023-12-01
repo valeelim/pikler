@@ -1,0 +1,1 @@
+APK (file format)    apk ( file format ) apk is the file format that software for android is distributed in . it is an extension of the zip file format . an apk file contains bitcode for android 's dalvik virtual machine , resources used by the program ( such as images and sounds ) , and sometimes native executable code , usually for the arm processor .

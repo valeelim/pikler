@@ -1,0 +1,1 @@
+JSGF     jsgf stands for java speech grammar format or the jspeech grammar format . it is a special format used to describe a set of text that fits into a certain language .

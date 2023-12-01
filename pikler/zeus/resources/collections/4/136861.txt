@@ -1,0 +1,1 @@
+Key size     in cryptography , key size or key length is the size ( measured in bits or bytes ) of the key used in a cryptographic algorithm ( such as a cipher ) . typical key sizes in modern symmetric ciphers are 128 , 192 , and 256 bits . older symmetric ciphers used only 40 , 56 , or 64 bits , which can be broken by brute force .

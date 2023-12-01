@@ -1,0 +1,1 @@
+Whitney embedding theorem     the whitney embedding theorem is a theorem in differential topology . it is named after hassler whitney , an american mathematician . it says that a manifold ( or real-life object in space ) can be shown on a flat thing like a piece of paper .

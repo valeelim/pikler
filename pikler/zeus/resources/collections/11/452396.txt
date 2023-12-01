@@ -1,0 +1,1 @@
+Amplituhedron     an amplituhedron is a geometric shape that makes it easier to calculate particle interactions in quantum field theories . currently , the limits of the `` n '' = 4 supersymmetric yang–mills theory , which is used to calculate the amplituhedron , cause it to be a toy theory . therefore , the application of the amplituhedron is limited in the real world .

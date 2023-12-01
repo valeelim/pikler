@@ -1,0 +1,1 @@
+Alonzo Church     alonzo church ( june 14 , 1903 – august 11 , 1995 ) was an american mathematician and logician who made major contributions to mathematical logic and the foundations of theoretical computer science . he is best known for the lambda calculus , church 's thesis and the church-rosser theorem .

@@ -1,0 +1,1 @@
+Concentric     concentric objects share the same center , axis , or origin . circles , spheres , cylinders , tubes , and other round objects can be concentric . concentric shapes do not normally have the same radius .

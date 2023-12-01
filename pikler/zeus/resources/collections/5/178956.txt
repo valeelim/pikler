@@ -1,0 +1,1 @@
+Dodecahedron     a dodecahedron is a solid shape that has twelve surfaces . each face is a pentagon ( has five edges ) . in total there are twenty corners ( also called vertices ) and thirty edges altogether . a dodecahedron which looks exactly the same from all faces is also a platonic solid .

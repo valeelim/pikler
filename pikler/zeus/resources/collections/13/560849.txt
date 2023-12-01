@@ -1,0 +1,1 @@
+Tessellation     tessellation of a flat surface refers to the repeated placement of shapes with no overlaps and no gaps . these shapes are also called `` tiles '' . in mathematics , tessellations can be generalized to higher dimensions and a variety of geometries .

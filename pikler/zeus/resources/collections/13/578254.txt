@@ -1,0 +1,1 @@
+Parameter (computer science)    parameter ( computer science ) in computer science , parameters are stored names of information that we want to use for a subroutine . these pieces of information , called values , are then passed on to the subroutine to be used as arguments . then these arguments can affect how the program will run .

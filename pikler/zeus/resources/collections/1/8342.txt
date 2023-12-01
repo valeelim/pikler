@@ -1,0 +1,1 @@
+Canteen     a canteen can be : - canteen ( bottle ) , an object for carrying water - canteen ( place ) , a small restaurant

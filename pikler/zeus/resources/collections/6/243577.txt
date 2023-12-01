@@ -1,0 +1,1 @@
+Periodic function     in mathematics , a periodic function is a function which has a repeated pattern ( a period ) which is continued infinitely . examples of periodic functions are the trigonometric functions sine and cosine , which both have a period of formula_1 .

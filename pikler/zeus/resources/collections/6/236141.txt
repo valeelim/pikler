@@ -1,0 +1,1 @@
+XOR gate     the xor gate ( exclusive or ) is a logic gate that outputs 1 ( true ) when exactly one of its inputs is 1 ( true ) . that means that if both of its inputs are the same , the output will be 0 ( false ) . there are three symbols for the xor gate :

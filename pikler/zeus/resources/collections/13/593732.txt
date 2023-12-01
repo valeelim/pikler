@@ -1,0 +1,1 @@
+Cluster analysis     clustering or cluster analysis is a type of data analysis . the analyst groups objects so that objects in the same group ( called a cluster ) are more similar to each other than to objects in other groups ( clusters ) in some way . this is a common task in data mining .

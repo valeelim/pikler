@@ -1,0 +1,1 @@
+Computable function     a computable function is an idea from computer science . a function is computable if there is an algorithm that can work out its result in a finite number of steps . computability theory is all about such functions .

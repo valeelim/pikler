@@ -1,0 +1,1 @@
+Hipparcos Catalogue     the hipparcos catalogue is a list of stars named after the greek astronomer , hipparchus . he listed the position of several hundred stars . each star in the catalogue has a designation of `` hip '' or `` hp '' .

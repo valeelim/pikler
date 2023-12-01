@@ -1,0 +1,1 @@
+Geometric topology     geometric topology is a discipline of mathematics . it looks at manifolds and embeddings . examples are the knot theory and braid groups . since 1945 , the field of topology has developed further : - algebraic topology - differential topology

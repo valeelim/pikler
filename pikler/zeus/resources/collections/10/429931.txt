@@ -1,0 +1,1 @@
+IEC 61850     the iec 61850 is a technical standard in the design of the automation of electrical substations . the standard specifies several protocols .

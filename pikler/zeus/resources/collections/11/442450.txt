@@ -1,0 +1,1 @@
+Ripple (payment protocol)    ripple ( payment protocol ) ripple is a communication protocol for sending money through the internet . other websites . - ripple client - an introduction - ripple primer

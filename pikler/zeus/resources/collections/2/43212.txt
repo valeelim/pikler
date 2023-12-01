@@ -1,0 +1,1 @@
+Logic equality     logical equality is a logical operation . it takes two inputs . it returns true , if either both inputs are true , or both inputs are false . otherwise ( when they are different ) it returns false .

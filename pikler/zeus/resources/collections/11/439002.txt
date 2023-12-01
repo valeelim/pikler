@@ -1,0 +1,1 @@
+Operating reserve     in electrical grid , operating reserve is the ability of the power generation to respond for any power loss or power failure at the load side in a relatively short time to avoid long power shortage . operating reserve is made of spinning reserve and non-spinning reserve .

@@ -1,0 +1,1 @@
+Mibbit     mibbit is an online irc client that is free of charge . it was made in javascript and ajax . mibbit was originally released in 2007 and was updated in 2008. it can be embedded into a website easily . related pages . - list of irc clients other websites . - the official mibbit website

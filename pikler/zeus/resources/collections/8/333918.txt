@@ -1,0 +1,1 @@
+Convex function     three examples are : - a line : formula_1 - a parabola : formula_2 - absolute value : formula_3

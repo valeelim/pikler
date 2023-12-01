@@ -1,0 +1,1 @@
+Elliptic curve     an elliptic curve is a plane cubic curve that does not have any sharp turns .

@@ -1,0 +1,1 @@
+Write Anywhere File Layout     write anywhere file layout ( wafl ) is a file system . it was developed with large raid arrays in mind . after a failure , the raid array can be directly restarted . other features like making the filesystem bigger without taking it offline are also supported .

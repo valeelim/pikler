@@ -1,0 +1,1 @@
+Current transformer     a current transformer ( ct ) is a transformer used to measure alternating current . ct is a part of instrument transformer . ct is used to measure current in a circuit when the current magnitude is too high to be measured safely . it is commonly used in power metering and power system protection .

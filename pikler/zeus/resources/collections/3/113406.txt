@@ -1,0 +1,1 @@
+Gentoo     gentoo may mean : - gentoo penguin , a species of bird - gentoo linux , a computer operating system distribution - gentoo/freebsd , a port of gentoo linux to the freebsd kernel and userland - gentoo ( file manager ) , a free file manager for linux and other unix-like systems

@@ -1,0 +1,1 @@
+Skew lines     skew lines are straight lines that are neither parallel nor intersecting . skew lines can not be in the same plane . this means they exist only in at least three-dimensional geometry .

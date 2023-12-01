@@ -1,0 +1,1 @@
+KPresenter     kpresenter is a free presentation program that is part of koffice , an office suite for the kde desktop environment . kpresenter 's native format is xml , compressed with zip . kpresenter is also able to load presentations from microsoft powerpoint , magicpoint and openoffice.org impress documents . related pages . - koffice other websites . - kpresenter homepage

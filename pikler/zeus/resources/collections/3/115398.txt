@@ -1,0 +1,1 @@
+Fluxbuntu     fluxbuntu was a linux distribution made for computers that have less powerful hardware . it is based or made from ubuntu and uses fluxbox for its window manager . related pages . - ubuntu - livedistro other websites . - official website - fluxbuntu page on launchpad

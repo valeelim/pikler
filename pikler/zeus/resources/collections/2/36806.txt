@@ -1,0 +1,1 @@
+Gibibyte     a gibibyte ( gib ) is a unit of measurement in computers and similar electronic devices . one gibibyte holds 1024 mebibytes ( mib ) . some people call this number of bytes a gigabyte . this would be considered the binary equivalent to the base-10 gigabyte , which consists of exactly one billion bytes . 1024 gibibytes make one tebibyte .

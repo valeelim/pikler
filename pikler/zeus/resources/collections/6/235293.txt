@@ -1,0 +1,1 @@
+Modulation     modulation can mean : - modulation ( music ) , the changing of a piece of music from one key to another . - frequency modulation ( fm ) or amplitude modulation ( am ) , ways to send analog radio signals . - phase-shift keying and frequency-shift keying , ways to send digital signals .

@@ -1,0 +1,1 @@
+Degree (mathematics)    degree ( mathematics ) the degree of a polynomial is the highest power of x that occurs inside that polynomial . for example : if we look at the polynomial formula_1 , then we can see that the degree of this polynomial is 3 because the highest power of x that occurs is formula_2 .

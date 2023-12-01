@@ -1,0 +1,1 @@
+Quassel     quassel irc , or quassel , is an irc client , introduced in 2008. it is released under the gnu general public license for gnu and unix-like operating systems , os x , and microsoft windows . since the release of kubuntu 9.04 ( jaunty jackalope ) quassel is kubuntu 's default irc client . quassel uses the qt application framework .

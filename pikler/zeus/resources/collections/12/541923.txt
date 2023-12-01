@@ -1,0 +1,1 @@
+Monomial     in mathematics , a monomial is a polynomial which has only one term . a monomial can not have a variable for a denominator .

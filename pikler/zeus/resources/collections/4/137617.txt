@@ -1,0 +1,1 @@
+Evolution strategy     evolution strategies are ways to solve a problem using evolutionary algorithms . the term was coined by ingo rechenberg .

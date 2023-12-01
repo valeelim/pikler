@@ -1,0 +1,1 @@
+Message (computer science)    message ( computer science ) in computer science , a message is a bit of data , which is sent by a sender , to a recipient . this is usually done by copying the data around . in an event-driven model , the recipient will then act in a certain way to the message .

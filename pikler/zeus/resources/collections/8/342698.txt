@@ -1,0 +1,1 @@
+Watchdog     a watchog or watch dog can have several meanings : - a dog with a special training , usually called guard dog - a part of an elecronic system that makes sure the system is operating properly , called watchdog timer - `` watchdog ( tv series ) '' , british television series

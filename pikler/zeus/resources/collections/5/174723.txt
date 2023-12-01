@@ -1,0 +1,1 @@
+Pentachoron     in geometry a pentachoron is an object in four-dimensional ( 4d ) space . it is a regular polytope and a 4-simplex . it is also called hyperpyramid , 5-cell or pentatope . it has 5 cells ( `` faces '' ) . each cell is a tetrahedron .

@@ -1,0 +1,1 @@
+Trusted third party     in cryptography , a trusted third party ( ttp ) is an entity which makes interactions between two parties easy . both parties must trust the third party ; they use this trust to secure their own interactions . ttps are commonly used by cryptosystems .

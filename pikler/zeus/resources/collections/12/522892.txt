@@ -1,0 +1,1 @@
+Eulerian path     eulerian path is a notion from graph theory . a eulerian path in a graph is one that visits each edge of the graph once only . a eulerian circuit or eulerian cycle is an eulerian path which starts and ends on the same vertex .

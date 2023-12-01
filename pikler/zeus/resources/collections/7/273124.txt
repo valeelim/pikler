@@ -1,0 +1,1 @@
+CrossOver     crossover is the collective name for four commercial programs developed by codeweavers that allow using windows programs on mac os x and linux . the programs include `` crossover linux '' , `` crossover mac '' , `` crossover games '' and `` crossover games linux '' . they are modified versions of the free and open source wine compatibility layer .

@@ -1,0 +1,1 @@
+HTTP 404     the 404 or not found is an error message meaning the web server could be contacted , but the file trying to be accessed could not be found.it happens when the website 's url is not valid . betrates

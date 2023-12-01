@@ -1,0 +1,1 @@
+Rayleigh scattering     rayleigh scattering is the way that light scatters when it hits a very small object . this theory is valid if the wavelength of the light is much bigger than the object . it is named after lord rayleigh but was also the work of raman and krishnan as it is part of the raman scattering theory .

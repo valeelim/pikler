@@ -1,0 +1,1 @@
+Geophone     geophone is a device for measuring earthquakes . they function by converting movement into voltage to be recorded at a station related pages . - seismometer

@@ -1,0 +1,1 @@
+Microsoft Small Basic     microsoft small basic is a programming language made by microsoft . it is a simplified version of the basic programming language . it was first released in 2008. small basic was designed by microsoft devlabs . the language has only 14 keywords , and the interface is simple . other websites . - official website

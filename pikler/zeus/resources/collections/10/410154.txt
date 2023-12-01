@@ -1,0 +1,1 @@
+Face detection     face detection is a computer technology that identifies a person by the features on their face .

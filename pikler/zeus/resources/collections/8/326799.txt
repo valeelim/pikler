@@ -1,0 +1,1 @@
+GPGPU     gpgpu refers to using a graphics processing unit to perform tasks normally done by a central processing unit . gpus are stronger than cpus of the same price , but are normally restricted to tasks involving graphics , like playing videos and rendering graphics in video games .

@@ -1,0 +1,1 @@
+XNOR gate     the xnor gate is a logic gate that outputs 1 ( true ) when both of its inputs are equal . there are three symbols for the xnor gate :

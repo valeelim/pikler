@@ -1,0 +1,1 @@
+Digital Signal Controller     a digital signal controller ( dsc ) can be thought of as a hybrid of microcontrollers and dsp processors .

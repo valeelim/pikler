@@ -1,0 +1,1 @@
+Classless Inter-Domain Routing     classless inter-domain routing ( cidr ) is a way of allocating ip addresses and routing internet protocol packets .

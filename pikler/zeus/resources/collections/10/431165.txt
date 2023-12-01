@@ -1,0 +1,1 @@
+Loss function     in mathematics a loss function or cost function is a mathematical function that maps an event , or the values of one or more variables onto a real number . this number is then given a semantic value , such as cost or utility . optimisation can then be used to find the value where the function is minimal , or at one of its maxima .

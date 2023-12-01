@@ -1,0 +1,1 @@
+Spacetime metric     in special relativity , the spacetime metric , also called the minkowski metric ' , is the metric tensor that describes the line element in minkowski spacetime . the metric can be described by the following line element : formula_1 in units where the speed of light , formula_2 , is one , then the metric in matrix form is formula_3

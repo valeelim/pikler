@@ -1,0 +1,1 @@
+Gauss-Bonnet theorem     the gauss-bonnet theorem is a theorem that connects the geometry of a shape with its topology . it is named after the two mathematicians carl friedrich gauß ( 1777-1855 ) and pierre ossian bonnet ( 1812-1872 ) who both found it , independently of one another . the curvature of the shape is used , as well as its euler characteristic .

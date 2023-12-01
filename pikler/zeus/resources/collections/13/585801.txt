@@ -1,0 +1,1 @@
+Euclidean distance     in euclidean geometry , the euclidean distance is the distance between two points . as euclidean geometry is used , this distance is a straight line , or line segment . the pythagorean theorem can be used to calculate this distance .

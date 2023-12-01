@@ -1,0 +1,1 @@
+Software agent     a software agent is a piece of software ( a computer program ) that is capable of making simple decisions to solve a problem . usually , agents solve problems by interacting with other agents , or with their environment .

@@ -1,0 +1,1 @@
+Stepper motor     a stepper motor is an electric motor that is able to create sharp movements . it is used , for example , in printers . typically it has more than two wires that are needed to control it . a stepper motor needs an electrical circuit to work . there are several versions of stepper motors and several ways to drive those . water cutting 3d-prints

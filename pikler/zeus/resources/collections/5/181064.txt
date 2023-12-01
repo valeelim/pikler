@@ -1,0 +1,1 @@
+Coset     if g is a group and h a subgroup of g , x is an element in g , and h is an element in h the cosets of h in g are defined as follows : - left coset : xh is the set of all the elements h of h multiplied by x on the left . - right coset : hx is the set of all the elements h of h multiplied by x on the right . when xh = hx we say that h is normal in g .

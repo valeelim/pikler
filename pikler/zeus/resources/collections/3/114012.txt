@@ -1,0 +1,1 @@
+AbulÉdu    abulédu abulédu is a french linux distribution made for classrooms . it is based on debian and it includes the linux terminal server project and a large number of educational applications . related pages . - gnu/linux - debian - list of linux distributions other websites . - official site ( in french )

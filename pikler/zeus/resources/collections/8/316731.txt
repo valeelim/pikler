@@ -1,0 +1,1 @@
+KB     kb can mean any of the following : - kb , kilobit , unit equal to 1000 bits - kb , kilobyte , unit equal to 1000 bytes ( byte = 8 bits ) - kibibyte - k , boltzmann constant , a constant in science , related to temperature and energy

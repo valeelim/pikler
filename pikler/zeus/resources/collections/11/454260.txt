@@ -1,0 +1,1 @@
+Cauchy sequence     in mathematics , a cauchy sequence is a sequence where the distance between any two elements of the sequence decreases as the sequence progresses . cauchy sequences are named after augustin-louis cauchy .

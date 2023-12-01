@@ -1,0 +1,1 @@
+Craps     craps is a game that uses dice . it is a game of chance . players make bets on the outcome of the roll . players can bet other players or the casino .

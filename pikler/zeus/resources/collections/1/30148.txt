@@ -1,0 +1,1 @@
+TAE connector     tae ( telekommunikations-anschluss-einheit ) is the german standard for telephone plugs and sockets . the standard covers two tae types : `` f '' ( `` fernsprechgerät '' : for telephones ) and `` n '' ( `` nebengerät '' : for other devices such as answering machines and modems ) .

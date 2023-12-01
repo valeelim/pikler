@@ -1,0 +1,1 @@
+Wheel theory     wheel theory is the theory of wheels . a wheel is an algebraic structure where division by 0 has meaning . references . - carlström , jesper : . mathematical structures in computer science , 14 ( 2004 ) : no . 1 , 143–184 ( also available online here ) .

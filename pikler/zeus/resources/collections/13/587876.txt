@@ -1,0 +1,1 @@
+Degree of freedom     degree of freedom of a particle or a body is simply the number of ways in which it can possess energy ( transnational energy , rotational energy , vibrational energy ) . it may be simply defined as the number of independent coordinate required to define motion of that body .

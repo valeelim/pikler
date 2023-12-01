@@ -1,0 +1,1 @@
+Tachometer     a tachometer is a sensor that measures the rotation speed of an object , for example a wheel or shaft . there are different methods to do so ( for example , mechanical , optical , or magnetic ) . most tachometers display the measurement in revolutions per minute .

@@ -1,0 +1,1 @@
+Alice and Bob     alice and bob are placeholder names which are commonly used to talk about problems , in cryptography , game theory and physics . in cryptography , people talk about alice sending bob a message , rather than using `` a sending b a message '' . ron rivest seems to have used these names first , in publications of 1977 and 1978 , about the rsa algorithm .

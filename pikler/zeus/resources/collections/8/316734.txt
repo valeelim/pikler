@@ -1,0 +1,1 @@
+Kilobit     a kilobit is 1000 ( kilo- ) , as in si , bits . a bit is either 0 ( off ) or 1 ( on ) . the kilobit is usually written as kbit or kb . kibibit is similar , except it has 1024 ( power of two ) bits instead of 1000. they are sometimes confused . related pages . - kilobyte - kibibit - kilo- - bit - si

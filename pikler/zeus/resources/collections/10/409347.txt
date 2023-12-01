@@ -1,0 +1,1 @@
+Light-second     a light-second is a unit of length equal to the distance light in empty space travels in one second , and is exactly 299,792,458 meters . the light-second is used in telecommunications , astronomy , and physics . in telecommunications , it measures how much time it must take to send a signal a certain distance .

@@ -1,0 +1,1 @@
+GParted     gparted is a program used for creating , deleting , resizing , moving , checking and copying partitions , and the file systems on them . this is useful for creating space for new operating systems ( works with vista system & data partitions ) , reorganizing disk usage , copying data residing on hard disks and mirroring one partition with another ( disk imaging ) .

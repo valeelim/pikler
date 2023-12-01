@@ -1,0 +1,1 @@
+Bayer designation     the bayer designation for stars uses to assign names to stars . for example : - α canis majoris - θ orionis - ζ reticuli it usually starts with the letter alpha ( α ) assigned to the brightest star in the constellation , then going down the to assign letters for other stars ( beta , gamma , delta , etc . ) in order of decreasing brightness .

@@ -1,0 +1,1 @@
+Harshad number     in mathematics , a harshad number ( also known as a niven number ) is an integer that is divisible by the sum of its digits in a given base . a harshad number in base n is called an n-harshad number .

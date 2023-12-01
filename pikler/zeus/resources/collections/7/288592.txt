@@ -1,0 +1,1 @@
+PHP License     the php license is a free software license . it is an open source software license and is the license that the php programming language is released under . other websites . - official php license information

@@ -1,0 +1,1 @@
+Random walk     a random walk is made by taking random steps .

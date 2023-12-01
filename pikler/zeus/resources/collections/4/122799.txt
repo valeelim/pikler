@@ -1,0 +1,1 @@
+Scheme (programming language)    scheme ( programming language ) scheme is a programming language . it is one of the two dialects of lisp in widespread use today . the other dialect of lisp widely used is common lisp . scheme is often used as a teaching tool ; to teach computer science students functional programming .

@@ -1,0 +1,1 @@
+Brownout (electricity)    brownout ( electricity ) a brownout is a drop of voltage in an electrical power supply . brownouts may be done intentionally in order to reduce the load during an emergency . this is done to prevent a total supply failure ( `` blackout '' ) . brownouts can also be caused accidentally by faults in the electrical grid which cause a drop in voltage .

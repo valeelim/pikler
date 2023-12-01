@@ -1,0 +1,1 @@
+CGI     cgi is an abbreciation , that can stand for : - computer-generated imagery - using computer graphics in movies - common gateway interface - a technology used on web servers

@@ -1,0 +1,1 @@
+Significant figures     the term `` significant figures refers to the digits , in a number or measurement , which show the accuracy of the number . for example , in the number 2300 , the count of significant digits is 2. in the number 2040 , the significant digits are `` 204 '' as a total of 3 .

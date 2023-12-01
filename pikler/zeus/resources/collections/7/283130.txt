@@ -1,0 +1,1 @@
+Puppet (software)    puppet ( software ) puppet is a computer program for managing the options of other software . it is open source . other websites . - deploying tomcat applications with puppet

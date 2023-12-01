@@ -1,0 +1,1 @@
+Cable tester     cable tester is a device used used to test cables . it finds breaks , faults or cracks in cabling . such devices may use electrical pulses or echoes for testing .

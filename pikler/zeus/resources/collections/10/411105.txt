@@ -1,0 +1,1 @@
+Sound level meter     a sound level meter ( or sound meter ) is a device used to measure sound pressure levels . it is often used to study and measure different kinds of noise , especially industrial and transport noise . the display indicates sound level in decibel units .

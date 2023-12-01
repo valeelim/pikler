@@ -1,0 +1,1 @@
+Security-Enhanced Linux     security-enhanced linux ( selinux ) is a linux feature that gives a variety of security rules , including mandatory access controls . it does so by using linux security modules ( lsm ) in the linux kernel . it is not a linux distribution , but rather a group of changes that can be used on unix-like operating systems , such as linux and bsd .

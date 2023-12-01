@@ -1,0 +1,1 @@
+VMDK     the vmdk ( virtual machine disk ) is a file format used by vmware products . products that use the format . - vmware workstation - vmware player - vmware server other websites . - official website of vmware - vmdk at file-extensions.org

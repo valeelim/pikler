@@ -1,0 +1,1 @@
+Operating environment     in computers , an operating environment is the environment in which you can use the operating system with , but is not the whole operating system on its own . for example , windows 3.x was not considered a full operating system since it ran on top of ms-dos . related pages . - operating system - windows 3.x

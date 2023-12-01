@@ -1,0 +1,1 @@
+Universe of discourse     in mathematics , the universe of discourse or domain of discourse is a set of all elements to which a function applies . a variable can take any of the values in its universe of discourse . the term is also used informally .

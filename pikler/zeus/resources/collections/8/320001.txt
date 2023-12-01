@@ -1,0 +1,1 @@
+Block (Internet)    block ( internet ) a block is action taken to stop certain people having access to information . if a website activates a block based on the internet protocol address ( ip address ) of a user , that block can effect other users that share the address . some blocked users try to get around the block by making a different account or using a proxy server .

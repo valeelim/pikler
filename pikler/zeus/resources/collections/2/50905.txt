@@ -1,0 +1,1 @@
+Eastern Standard Time Zone     there are three different time zones called eastern standard time zone : - australian eastern standard time , utc+10 - brazilian eastern standard time , utc-2 - eastern time zone ( north america ) , utc-5

@@ -1,0 +1,1 @@
+Particle size     - particle size ( general ) provides general definitions of the `` particle size '' notion . - particle size ( grain size ) provides specific details for particle size of soils , powders , gravel , etc . - particle size distribution

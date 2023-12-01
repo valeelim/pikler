@@ -1,0 +1,1 @@
+Contactor     a contactor is an electric device to switch an electric circuit . it is controlled electrically for it to switch on or switch off the circuit . it has a relatively high current rating . the control circuit usually has much lower power level than the switched circuit . related pages . - relay

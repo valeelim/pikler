@@ -1,0 +1,1 @@
+Sister group     a sister group or sister taxon is a term used to describe the closest relatives of an organism ( or other taxon ) in a phylogenetic tree . it is a term in cladistics . the sister group of organism a is b. the sister group of the clade b+a , is c .

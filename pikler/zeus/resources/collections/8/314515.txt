@@ -1,0 +1,1 @@
+Newtonian fluid     a newtonian fluid is a fluid , where the ratio between shear stress changes linearly in proportion to the stress it is exposed to . this proportion is known as viscosity . note that the inverse is not true ; there are fluids with constant viscosity , that are non-newtonian fluids : one example is the boger fluid .

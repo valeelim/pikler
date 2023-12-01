@@ -1,0 +1,1 @@
+Locus (mathematics)    locus ( mathematics ) in geometry , a locus ( plural : `` loci '' ) is one of a set of points which satisfies one or more conditions . the usual results are a curve or a surface . for example , all points in a plane an equal distance from a center point result in a circle .

@@ -1,0 +1,1 @@
+De Morgan's laws    de morgan 's laws in boolean algebra , demorgan 's laws are the laws of how a not gate affects and and or statements : they can be remembered by `` break the line , change the sign '' . the following truth tables prove demorgan 's laws .

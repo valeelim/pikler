@@ -1,0 +1,1 @@
+JavaScript engine     a javascript engine is a program that interprets javascript code . it may also compile javascript . many internet browsers have a javascript engine .

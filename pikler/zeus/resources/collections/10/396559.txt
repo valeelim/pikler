@@ -1,0 +1,1 @@
+Duck typing     in computer programming with object-oriented programming languages , duck typing is a way to write computer code . it does n't demand that you know what types you are writing about . if it does what you thought it would do , it is good enough . the reason this is called `` duck typing '' is the duck test . it was invented by james whitcomb riley :

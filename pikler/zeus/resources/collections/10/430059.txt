@@ -1,0 +1,1 @@
+Tap changer     a tap changer is a component of a transformer . it controls the transformer 's output voltage by adjusting its winding ratio within some range of step levels . the tap changer can be done manually or automatically and either when the transformer is energized ( on load tap changer ; oltc ) or when it is off ( off circuit tap changer ; octc ) .

@@ -1,0 +1,1 @@
+Neural network     neural network can be : - artificial neural network , a computer simulation of the way a biological brain works . - biological neural network , a neuroscience term for a group of neurons connected to one another .

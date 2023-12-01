@@ -1,0 +1,1 @@
+Loopback     the loopback address is a computing term that is a special ip address of a computer 's ethernet network . it is used to allow software on a computer to send information to the same computer using the tcp/ip stack . the special ip address is known as 127.0.0.1 ( ipv4 ) or 0:0:0:0:0:0:0:1 ( : :1 , ipv6 ) .

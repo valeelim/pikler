@@ -1,0 +1,1 @@
+Isotherm     isotherms are lines drawn around places with the same temperature range on isotherm maps . each point on this line shows one temperature reading , or the average of many temperature readings . isotherm maps also have scales that tell the signals or colors for the different temperatures . isotherm lines are usually curvy and not straight lines .

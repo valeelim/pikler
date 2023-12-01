@@ -1,0 +1,1 @@
+Control system     control system is a device or system that gives commands to manage the behavior of other devices or systems . the commands can be set or programmed , and the output is determined by the input . a control system is represented by a logic diagram . classes . - open loop control system-without feedback - closed loop control system-with feedback

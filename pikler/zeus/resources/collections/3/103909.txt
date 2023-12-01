@@ -1,0 +1,1 @@
+Tebibyte     a tebibyte ( tib ) is a unit of measurement in computers and similar electronic devices . tebibytes hold 1024 gibibytes ( gib ) or 1,099,511,627,776 bytes . some people incorrectly call this number of bytes a terabyte , which is actually one trillion bytes , or 1000 gigabytes ( gb ) . 1024 tebibytes make one pebibyte .

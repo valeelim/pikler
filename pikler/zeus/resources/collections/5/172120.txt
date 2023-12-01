@@ -1,0 +1,1 @@
+GPRS Tunneling Protocol     gprs tunneling protocol ( gtp ) is a group of protocols to send and receive data over cellular phone networks .

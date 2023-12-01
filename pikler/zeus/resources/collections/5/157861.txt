@@ -1,0 +1,1 @@
+Blacklist (computing)    blacklist ( computing ) in computing , blacklisting is a form of access control . a proxy server might check the list of pages accessed against a `` blacklist '' , if the address is on the blacklist , the page can not be accessed .

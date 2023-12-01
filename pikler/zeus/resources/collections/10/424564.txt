@@ -1,0 +1,1 @@
+Brownian bridge     a brownian bridge is a stochastic process that results from the brownian motion , given that at the end of the time modeled , the function value is 0 .

@@ -1,0 +1,1 @@
+Newline     line feed is the name of a computer character that directs a printer or screen display to advance one line of text . the word `` feed '' refers to its original use : causing paper to be fed through a teletype , one line at a time . on some systems , such as the unix family , it also returns to the beginning of the line , like the carriage return character .

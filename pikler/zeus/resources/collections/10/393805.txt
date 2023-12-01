@@ -1,0 +1,1 @@
+Non-volatile random-access memory     non-volatile random-access memory ( nvram ) is a type of computer memory . it is permanent storage similar to a hard drive . the startup configuration is stored in nvram . the best known form of nvram today is the flash drive .

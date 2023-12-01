@@ -1,0 +1,1 @@
+Bitmap     the term bitmap can have different meanings : - a suite of bits which all have the same meaning ; commonly called bit array - a binary image made of dots . each dot is coded as a bit , so is either white or black . - a different name for raster graphics - an abbreviation for the bmp file format - a music group from england , called bitmap ( group )

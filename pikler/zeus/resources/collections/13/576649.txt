@@ -1,0 +1,1 @@
+Monotonic function     in algebra , a montonic function is any function whose gradient never changes sign . that is to say there are no turning points but there may be stationary points where the gradient is momentarily zero . the derivative function of a monotonic function which describes its gradient will never change sign .
